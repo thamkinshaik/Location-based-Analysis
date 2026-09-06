@@ -1,7 +1,6 @@
 # Location-Based Restaurant Analysis
 
 A geographical analysis project examining restaurant data to uncover location-based trends across cities and regions.
-
 ## Tools Used
 Python, Pandas, Matplotlib/Seaborn
 
