@@ -10,4 +10,4 @@ Python, Pandas, Matplotlib/Seaborn
 - Visualizes geographical trends to surface actionable insights
 
 ## Key Learnings
-Applied data analysis and visualization techniques to understand how location impacts restaurant performance and customer preferences.
+Applied data analysis and visualization techniques to understand how location impacts restaurant performance and customer preferences
